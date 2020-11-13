@@ -7,7 +7,7 @@ o = 0o71
 # binary
 b = 0b1010
 
-print(d, h, o , b)
+print(d, h, o, b)
 
 # complex numbers
 print(complex(1, 2))
